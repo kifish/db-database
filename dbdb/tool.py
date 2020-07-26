@@ -23,7 +23,7 @@ def main(argv):
         print("Key not found",file = sys.stderr)
         return BAD_KEY
     return OK
-    
+
 
 
 def usage():
